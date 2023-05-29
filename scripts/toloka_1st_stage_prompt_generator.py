@@ -14,6 +14,7 @@ house_description: str = "Lorem ipsum dolor sit amet, consectetur adipiscing eli
 
 
 def generate_prompts():
+    prompts = []
 
     # if __PROMPT_FOLDER does not exist, create it
     if not os.path.exists(__PROMPT_FOLDER):
@@ -22,6 +23,7 @@ def generate_prompts():
     with open(__DATA_FILE, "r") as f:
         house_nr: int = 1
         for line in f:
+            print('Generating prompt for house number: ', house_nr)
             values: List[str] = line.strip().split()
 
             # only process lines with 5 columns
@@ -38,15 +40,22 @@ def generate_prompts():
                     prompt = create_json_prompt(
                         house_nr, lat, long, bedrooms, bathrooms, sq_ft_str)
 
+                    prompts.append(prompt)
+
                     # save prompt to .json file in __PROMPT_FOLDER with name <house_nr>.json
                     with open(os.path.join(__PROMPT_FOLDER, str(house_nr) + ".json"), "w") as f:
-                        json.dump(prompt, f, indent=2)
+                        json.dump([prompt], f, indent=2)
 
             house_nr += 1
 
+    # save all prompts to a single .json file in __PROMPT_FOLDER with name prompts.json
+    with open(os.path.join(__PROMPT_FOLDER, "prompts.json"), "w") as f:
+        json.dump(prompts, f, indent=2)
+
 
 def create_json_prompt(house_nr: int, lat: float, long: float, bedrooms: str, bathrooms: str, sq_ft: str, house_description: str = house_description):
-
+    m2: float = float(sq_ft) * 0.09290304
+    rounded_m2: str = "{:.1f}".format(m2)
     prompt_template = {
         "view": {
             "type": "view.list",
@@ -82,6 +91,13 @@ def create_json_prompt(house_nr: int, lat: float, long: float, bedrooms: str, ba
                             "content": {
                                 "type": "view.text",
                                 "content": sq_ft,
+                            }
+                        },
+                        {
+                            "label": "Surface area (in sq. meters - m2):",
+                            "content": {
+                                "type": "view.text",
+                                "content": rounded_m2,
                             }
                         }
                     ]
