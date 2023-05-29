@@ -76,10 +76,7 @@
         {
           "type": "view.map",
           "label": "Map of the zip code:",
-          "center": {
-            "type": "data.input",
-            "path": "locations.center"
-          },
+          "center": "33.824,-111.913",
           "polygons": [
             {
               "color": "#00FFFF",

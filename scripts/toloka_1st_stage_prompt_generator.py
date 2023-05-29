@@ -134,10 +134,7 @@ def create_json_prompt(house_nr: int, lat: float, long: float, bedrooms: str, ba
                 {
                     "type": "view.map",
                     "label": "Map of the zip code:",
-                    "center": {
-                        "type": "data.input",
-                        "path": "locations.center"
-                    },
+                    "center": str(lat) + "," + str(long),
                     "polygons": [
                         {
                             "color": "#00FFFF",
