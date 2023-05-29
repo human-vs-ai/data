@@ -3,6 +3,7 @@ import math
 import os
 from typing import List
 import zip2latlong
+import zipborders
 
 __DATA_FILE = os.path.join(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__))), "data", "HousesInfo.txt")
@@ -38,7 +39,7 @@ def generate_prompts():
                 # skip if no latitude/longitude data is available
                 if lat is not None and not math.isnan(lat) and long is not None and not math.isnan(long):
                     prompt = create_json_prompt(
-                        house_nr, lat, long, bedrooms, bathrooms, sq_ft_str)
+                        house_nr, lat, long, bedrooms, bathrooms, sq_ft_str, zipcode)
 
                     prompts.append(prompt)
 
@@ -53,7 +54,7 @@ def generate_prompts():
         json.dump(prompts, f, indent=2)
 
 
-def create_json_prompt(house_nr: int, lat: float, long: float, bedrooms: str, bathrooms: str, sq_ft: str, house_description: str = house_description):
+def create_json_prompt(house_nr: int, lat: float, long: float, bedrooms: str, bathrooms: str, sq_ft: str, zipcode: str, house_description: str = house_description):
     m2: float = float(sq_ft) * 0.09290304
     rounded_m2: str = "{:.1f}".format(m2)
     prompt_template = {
@@ -132,9 +133,18 @@ def create_json_prompt(house_nr: int, lat: float, long: float, bedrooms: str, ba
                 },
                 {
                     "type": "view.map",
-                    "label": "Map of the area (zipcode 85255):",
-                    "center": str(lat) + "," + str(long),
-                    "zoom": 14
+                    "label": "Map of the zip code:",
+                    "center": {
+                        "type": "data.input",
+                        "path": "locations.center"
+                    },
+                    "polygons": [
+                        {
+                            "color": "#00FFFF",
+                            "points": zipborders.get_zipcode_bounds(zipcode)
+                        }
+                    ],
+                    "zoom": 8
                 },
                 {
                     "type": "view.markdown",

@@ -75,9 +75,20 @@
         },
         {
           "type": "view.map",
-          "label": "Map of the area (zipcode 85255):",
-          "center": "39.0135,-89.7857",
-          "zoom": 14
+          "label": "Map of the zip code:",
+          "center": {
+            "type": "data.input",
+            "path": "locations.center"
+          },
+          "polygons": [
+            {
+              "color": "#00FFFF",
+              "points": [
+                "[-89.772362, 38.961396],[-89.771945, 38.961392]"
+              ]
+            }
+          ],
+          "zoom": 8
         },
         {
           "type": "view.markdown",

@@ -27,7 +27,9 @@ def get_zipcode_bounds(zipcode: str) -> List[str]:
 
     # Print the polygon coordinates
     points = []
-    for lat, lng in polygon:
+    for values in polygon:
+        lng = values[0]
+        lat = values[1]
         points.append(f"{lat},{lng}")
 
     return points
