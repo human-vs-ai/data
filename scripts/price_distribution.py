@@ -9,8 +9,11 @@ import numpy as np
 __DATA_FILE = os.path.join(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__))), "data", "HousesInfo.txt")
 
+# 2016-2023 (https://www.in2013dollars.com/Housing/price-inflation/2016-to-2023?amount=1)
+HOUSE_PRICE_INFLATION: float = 1.29
 
-def get_prices() -> List[float]:
+
+def get_prices(inflation: bool = False) -> List[float]:
     """
     Get prices from the data file.
 
@@ -26,7 +29,8 @@ def get_prices() -> List[float]:
             # only process lines with 5 columns
             if len(values) == 5:
                 # prices are in the 5th column
-                price: str = values[4]
+                price: str = values[4] * \
+                    (HOUSE_PRICE_INFLATION if inflation else 1)
                 prices.append(float(price))
 
     return prices
