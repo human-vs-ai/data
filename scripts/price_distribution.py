@@ -29,21 +29,21 @@ def get_prices(inflation: bool = False) -> List[float]:
             # only process lines with 5 columns
             if len(values) == 5:
                 # prices are in the 5th column
-                price: str = values[4] * \
+                price: float = float(values[4]) * \
                     (HOUSE_PRICE_INFLATION if inflation else 1)
-                prices.append(float(price))
+                prices.append(price)
 
     return prices
 
 
-def barplot_prices() -> None:
+def barplot_prices(inflation: bool = False) -> None:
     """
     Plot the prices from the data file.
     Bin width of value range 100000 (price).
     Highest limit for price is set to 6 million.
     On the x-axis are the prices of the hourses.
     """
-    prices: List[float] = get_prices()
+    prices: List[float] = get_prices(inflation=inflation)
     max_price: float = max(prices)
     step: int = 100000
 
@@ -56,7 +56,8 @@ def barplot_prices() -> None:
     ax.set_xlabel("Price (in millions of $)")
     ax.set_ylabel("Number of houses")
     ax.set_title(
-        "Price distribution for houses in price ranges of $" + str(step))
+        "Price distribution for houses in price ranges of $" + str(step) +
+        (" (inflation adjusted)" if inflation else ""))
 
     # Add text labels above each bar based on their index
     for _, patch in enumerate(ax.patches):
@@ -76,4 +77,4 @@ def barplot_prices() -> None:
 
 
 if __name__ == "__main__":
-    barplot_prices()
+    barplot_prices(inflation=True)
