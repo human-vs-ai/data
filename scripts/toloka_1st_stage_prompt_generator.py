@@ -356,4 +356,4 @@ def create_json_prompt(house_nr: int, lat: float, long: float, bedrooms: str, ba
 
 
 if __name__ == '__main__':
-    generate_prompts()
+    generate_input_data()
