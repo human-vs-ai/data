@@ -1,0 +1,175 @@
+{
+“id”: 1,
+“zipcode”: 85255,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has 4 bedrooms and 4 bathrooms, with an area of 4053 sqft. The property is located in Scottsdale, Arizona, which is known for its luxury homes and high-end shopping. The property has a modern design with a large living room and dining area, as well as a large kitchen with modern appliances. The backyard has a large patio area and a pool. The property is in good condition and has recently been renovated. The location is a desirable area, and the property is in close proximity to many high-end restaurants and shopping centers. The property is priced at the high end of the range, but given the location and condition of the property, it is justified.”
+}
+{
+“id”: 2,
+“zipcode”: 36372,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 700000,
+“rationale”: “The property has 4 bedrooms and 3 bathrooms, with an area of 3343 sqft. The property is located in a desirable area with a high demand for housing. The build quality is of high quality, with a spacious kitchen and luxurious bathrooms. The property also has a large backyard and a garage. The zipcode is 36372. Given the above factors, the price prediction for this property is between $500,000 and $700,000.”
+}
+{
+“id”: 3,
+“zipcode”: 85266,
+“price_prediction_lower_bound”: 300000,
+“price_prediction_upper_bound”: 400000,
+“rationale”: “The property has three bedrooms and four bathrooms, with an area of 3923 sqft. The location in Arizona is a desirable area, and the property has a beautiful view of the mountains. The build quality is high, with a modern design and high-end finishes. The property also has a large garage, which is important for those who need extra parking space. The garden is well-maintained and the property has a swimming pool. All of these features make this property a great investment opportunity.”
+}
+{
+“id”: 4,
+“zipcode”: 85262,
+“price_prediction_lower_bound”: 700000,
+“price_prediction_upper_bound”: 800000,
+“rationale”: “The property has 5 bedrooms and 5 bathrooms, with an area of 4022 sqft. The property is located in a desert area, with a garage and a swimming pool. The build quality is modern and well maintained. The property is in a good location with easy access to amenities. The price range for similar properties in the area is between 700,000 and 800,000 USD. Given the above factors, the price prediction for this property is between 700,000 and 800,000 USD.”
+}
+{
+“id”: 5,
+“zipcode”: 85266,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has three bedrooms and four bathrooms, with an area of 4116 sqft. The build quality appears to be high, with a well-maintained garden and a garage. The location in zipcode 85266 is a desirable area, and the property is likely to be in high demand. The price range of $500,000 to $600,000 is reasonable considering the size and quality of the property.”
+}
+{
+“id”: 6,
+“zipcode”: 85266,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has 4 bedrooms and 5 bathrooms, with an area of 4581 sqft. The location in Scottsdale, Arizona is a desirable area, and the property is well maintained. The build quality is modern and the garden is well kept. The garage is not present, but it is not necessary for the property. The number of bedrooms and bathrooms are important features to focus on, as they are key factors in determining the value of the property. The price range of $500,000 to $600,000 is reasonable for a property of this size and location.”
+}
+{
+“id”: 7,
+“zipcode”: 85262,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has three bedrooms and four bathrooms, with an area of 2544 sqft. The property is located in a desert area, which is a desirable location for many people. The property has a high quality build, a large garden, and a garage. The property is also located in a zipcode with a high demand for housing. Based on these factors, the price prediction for this property is expected to be between $500,000 and $600,000.”
+}
+{
+“id”: 8,
+“zipcode”: 85266,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has 4 bedrooms and 5 bathrooms, with an area of 5524 sqft. The build quality appears to be high, with a well-maintained garden and a garage. The location in the desert area is also a plus point. The number of bedrooms and bathrooms are important features to focus on, as they determine the size of the living space and the comfort of the residents. The area is also important as it determines the value of the property. Based on these factors, the price prediction for the property is expected to be between $500,000 and $600,000.”
+}
+{
+“id”: 9,
+“zipcode”: 85255,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has three bedrooms and four bathrooms, with an area of 4229 sqft. The property is located in a desirable area with a high demand for housing. The build quality is modern and well maintained. The property has a large backyard and a garage. The property is located in a zip code with a high median income. Given these factors, the price prediction for this property is likely to be in the range of $500,000 to $600,000.”
+}
+{
+“id”: 10,
+“zipcode”: 85262,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has four bedrooms and five bathrooms, which is a good size for a family. The area of 3550 square feet is also reasonable for the number of bedrooms and bathrooms. The property has a garage, which is a plus. However, the build quality and garden are not shown in the image, so it is difficult to determine their importance. The zipcode is a desirable area, but it is not a guarantee of the property’s value. Based on these factors, I would estimate the price to be between $500,000 and $600,000.”
+}
+{
+“id”: 11,
+“zipcode”: 85266,
+“price_prediction_lower_bound”: 1,
+“price_prediction_upper_bound”: 100000,
+“rationale”: “The property has 5 bedrooms and 5 bathrooms, with an area of 4829 sqft. The build quality appears to be high, with a well-maintained garden and a garage. The location in Arizona is also a desirable feature. Given these attributes, the price prediction for this property is likely to be in the range of $1,000,000 to $10,000,000.”
+}
+{
+“id”: 12,
+“zipcode”: 85255,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has four bedrooms and four bathrooms, with an area of 3428 square feet. The property is located in a desirable area with a high demand for housing. The build quality is of high quality, with a spacious kitchen and a large living room. The property also has a garage, which is a valuable feature. The garden is well maintained and the property has a good view. The zipcode is 85255. Based on these factors, the price prediction for this property is between $500,000 and $600,000.”
+}
+{
+“id”: 13,
+“zipcode”: 85266,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has 5 bedrooms and 3 bathrooms, with an area of 5462 sqft. The property is located in a desirable area with a high demand for housing. The build quality is of high quality, with a spacious living area and a large kitchen. The property also has a garage, which is a valuable feature for families with multiple cars. The property is also located in a zipcode with a high average income, which indicates a high demand for housing. Taking into account all these factors, the price prediction for this property is between 500000 and 600000.”
+}
+{
+“id”: 14,
+“zipcode”: 85266,
+“price_prediction_lower_bound”: 400000,
+“price_prediction_upper_bound”: 500000,
+“rationale”: “The property has four bedrooms and four bathrooms, with an area of 4021 sqft. The property is located in a desirable area with a high demand for housing. The build quality is of good quality, and the property has a garage. The property is well maintained and has a beautiful garden. The property is located in a zipcode with a high demand for housing, which contributes to the high price prediction. The price range is based on recent sales data and current market trends.”
+}
+{
+“id”: 15,
+“zipcode”: 85266,
+“price_prediction_lower_bound”: 1,
+“price_prediction_upper_bound”: 2,
+“rationale”: “The property has 5 bedrooms and 5 bathrooms, with an area of 4406. The property is located in a luxurious neighborhood with high-end homes and high-end shopping centers. The property has a large backyard and a swimming pool. The build quality is high-end and the property is well-maintained. The property is located in a desirable zip code with high demand for luxury homes. The property is priced competitively with similar properties in the area. Given these factors, the price prediction for this property is likely to be in the range of $1,000,000 to $2,000,000.”
+}
+{
+“id”: 16,
+“zipcode”: 85255,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: "The property has four bedrooms and four bathrooms, with an area of 3721 sqft. The property is located in a desirable area with high-end homes and high-end shopping. The property has a modern design and is well-maintained. The property has a large backyard and a garage. The property is in good condition and has recently been updated. The property is in a good location with easy access to major highways and public transportation.
+}
+{
+“id”: 17,
+“zipcode”: 85331,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has 5 bedrooms and 3 bathrooms, with an area of 3710 sqft. The location in zipcode 85331 is a desirable area, and the property has a high quality build and a large garden. The garage is also present, which is a valuable feature. The number of bedrooms and bathrooms are important features to focus on, and the area is also a significant factor. Based on these attributes, the price prediction for the property is between $500,000 and $600,000.”
+}
+{
+“id”: 18,
+“zipcode”: 85255,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has three bedrooms and four bathrooms, which is a good size for a family. The area of 2748 square feet is also reasonable for the price range of $500,000 to $600,000. The property appears to be well-maintained and has a modern design, which could attract potential buyers. The location in zipcode 85255 is also a desirable area. However, the property’s proximity to a busy road could be a disadvantage for some buyers. Overall, the price range of $500,000 to $600,000 is reasonable for the property’s size and features.”
+}
+{
+“id”: 19,
+“zipcode”: 85255,
+“price_prediction_lower_bound”: 1,
+“price_prediction_upper_bound”: 2,
+“rationale”: “The property has 5 bedrooms and 4 bathrooms, with an area of 4190. The build quality appears to be high, with a large garage and a spacious garden. The zipcode is 85255. Given these factors, the price prediction for this property is likely to be between $1 and $2 million.”
+}
+{
+“id”: 20,
+“zipcode”: 85266,
+“price_prediction_lower_bound”: 400000,
+“price_prediction_upper_bound”: 500000,
+“rationale”: “The property has three bedrooms and 3.5 bathrooms, with an area of 4143 sqft. The property is located in Scottsdale, Arizona, which is known for its luxury homes and high-end shopping. The property has a modern design with a large living room and dining area, as well as a spacious kitchen. The backyard has a large patio area and a pool. The property is in good condition and has recently been renovated. The location and the size of the property make it a desirable property for a family or a couple looking for a luxury home in Scottsdale. The price range of $400,000 to $500,000 is reasonable for a property of this size and condition in the area.”
+}
+{
+“id”: 21,
+“zipcode”: 85255,
+“price_prediction_lower_bound”: 400000,
+“price_prediction_upper_bound”: 500000,
+“rationale”: “The property has three bedrooms and three and a half bathrooms, which is a good size for a family. The area of 4229 square feet is also reasonable for the number of bedrooms and bathrooms. The property is located in a desirable zip code and has a good build quality. The garage is not present, but it is not necessary for the property’s use. The price range of $400,000 to $500,000 is reasonable for the property’s size, location, and features.”
+}
+{
+“id”: 22,
+“zipcode”: 85262,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has 6 bedrooms and 6.5 bathrooms, which is a good size for a family. The area of 5963 sqft is also reasonable for the number of bedrooms and bathrooms. The property is located in a desert area, which is a desirable location for many people. The zipcode is also a desirable area. The property has a good build quality and a garage, which is a plus. All these factors contribute to a price prediction of $500,000 to $600,000.”
+}
+{
+“id”: 23,
+“zipcode”: 85255,
+“price_prediction_lower_bound”: 400000,
+“price_prediction_upper_bound”: 500000,
+“rationale”: “The property has three bedrooms and three bathrooms, with an area of 2685 sqft. The property is located in a desirable area with a high demand for housing. The build quality is of good quality, with a well-maintained garden and a garage. The property is also located in a zipcode with a high average income. Given these factors, the price prediction for this property is likely to be in the range of $400,000 to $500,000.”
+}
+{
+“id”: 24,
+“zipcode”: 85377,
+“price_prediction_lower_bound”: 1000000,
+“price_prediction_upper_bound”: 1500000,
+“rationale”: “The property has 5 bedrooms and 5 bathrooms, with an area of 5677 sqft. The property is located in a desirable area with a high demand for housing. The build quality is modern and the garden is well maintained. The garage is not present, but it is not necessary for the property’s value. The property is priced at the higher end of the range due to its high quality and desirable location.”
+}
+{
+“id”: 25,
+“zipcode”: 85262,
+“price_prediction_lower_bound”: 1000000,
+“price_prediction_upper_bound”: 1500000,
+“rationale”: “The property has four bedrooms and four and a half bathrooms, which is a good size for a family. The area of 4031 square feet is also reasonable for the number of bedrooms and bathrooms. The property is located in Scottsdale, Arizona, which is a desirable location. The build quality appears to be high, with a well-maintained garden and a garage (if present). However, the property is not in the best location, as it is located on a busy street. The price range of $100,000 to $150,000 is reasonable for the property’s size and location.”
+}
