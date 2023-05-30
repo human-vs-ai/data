@@ -1,0 +1,50 @@
+[
+  {
+    "input_values": {
+	  "id": 100,
+	  "price": 869500,
+      "n_bedrooms": 4,
+      "n_bathrooms": 4,
+      "surface_area": 4053,
+      "image_urls": {
+        "frontal_view": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/100_frontal.jpg",
+        "kitchen": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/100_kitchen.jpg",
+        "bedroom": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/100_bedroom.jpg",
+        "bathroom": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/100_bathroom.jpg"
+      },
+      "coordinates": {
+        "center": "33.677553, -111.854157",
+        "polygon": [
+          "33.72681,-111.833342",
+          "33.726813,-111.832757",
+          "33.726813,-111.832248",
+          "33.726815,-111.830936"
+        ]
+      }
+    }
+  },
+  {
+    "input_values": {
+	  "id": 101,
+	  "price": 222500,
+      "n_bedrooms": 2,
+      "n_bathrooms": 2,
+      "surface_area": 2000,
+      "image_urls": {
+        "frontal_view": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/101_frontal.jpg",
+        "kitchen": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/101_kitchen.jpg",
+        "bedroom": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/101_bedroom.jpg",
+        "bathroom": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/101_bathroom.jpg"
+      },
+      "coordinates": {
+        "center": "33.677553, -111.854157",
+        "polygon": [
+          "33.72681,-111.833342",
+          "33.726813,-111.832757",
+          "33.726813,-111.832248",
+          "33.726815,-111.830936"
+        ]
+      }
+    }
+  }
+]
