@@ -1,0 +1,224 @@
+{
+“id”: 26,
+“zipcode”: 85262,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has four bedrooms and four bathrooms, with an area of 4954 sqft. The build quality appears to be high, with a well-maintained garden and a garage. The location in the zipcode 85262 is a desirable area, and the property is likely to be in high demand. The price range of $500,000 to $600,000 is reasonable considering the size and quality of the property.”
+“Label”: 0
+}
+
+{
+“id”: 27,
+“zipcode”: 85262,
+“price_prediction_lower_bound”: 700000,
+“price_prediction_upper_bound”: 800000,
+“rationale”: “The property has four bedrooms and four and a half bathrooms, which is a good size for a family. The area of 3550 square feet is also reasonable for the price range of $700,000 to $800,000. The property has a modern build quality and a large garage, which is a desirable feature. The location in zipcode 85262 is also a desirable area. All of these factors contribute to the price range of $700,000 to $800,000.”
+“Label”: 1
+}
+
+{
+“id”: 28,
+“zipcode”: 85266,
+“price_prediction_lower_bound”: 700000,
+“price_prediction_upper_bound”: 800000,
+“rationale”: “The property has 5 bedrooms and 4.5 bathrooms, with an area of 4180 sqft. The property is located in a luxurious neighborhood with high-end homes and high-end shopping centers. The property has a beautiful garden and a large garage. The property is in good condition and has recently been renovated. The location is a desirable area with high demand for luxury homes. The property is priced competitively with similar properties in the area. The property is expected to sell for around $700,000 to $800,000.”
+“Label”: 1
+}
+
+{
+“id”: 29,
+“zipcode”: 85377,
+“price_prediction_lower_bound”: 1000000,
+“price_prediction_upper_bound”: 1500000,
+“rationale”: “The property has 4 bedrooms and 4 bathrooms, with an area of 4464 sqft. The property is located in a desert area, with a large living room and dining area, a spacious kitchen, and a large master bedroom with an en suite bathroom. The property also has a large garage and a beautiful garden. The build quality is high, with wooden beams and stone walls. The property is located in a desirable area, with easy access to shopping centers and restaurants. The property is in good condition, but may require some minor repairs. The property is suitable for a large family or for someone who wants to live in a luxurious home in the desert. The price range for this property is between $1,000,000 and $1,500,000. The price prediction for this property is between $1,000,000 and $1,500,000.”
+“Label”: 1 
+}
+
+{
+“id”: 30,
+“zipcode”: 85266,
+“price_prediction_lower_bound”: 700000,
+“price_prediction_upper_bound”: 800000,
+“rationale”: “The property has 5 bedrooms and 4.5 bathrooms, with an area of 4829 sqft. The build quality appears to be high, with a well-maintained garden and a garage. The location in Scottsdale, Arizona is a desirable area, and the property is situated in a quiet neighborhood. The property is also close to shopping centers, restaurants, and other amenities. Given these factors, the price prediction for this property is likely to be in the range of $700,000 to $800,000.”
+“Label”: 1
+}
+
+{
+“id”: 31,
+“zipcode”: 93446,
+“price_prediction_lower_bound”: 700000,
+“price_prediction_upper_bound”: 800000,
+“rationale”: “The property has 5 bedrooms and 3 bathrooms, with an area of 2520 sqft. The property is located in a desirable area with good schools and access to amenities. The build quality is well maintained and the garden is well kept. The garage is not present. The property is priced at the higher end of the range, but given the desirability of the area and the quality of the property, it is reasonable to expect that it would sell within the range.”
+“Label”: 1
+}
+
+{
+“id”: 32,
+“zipcode”: 85255,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has 4 bedrooms and 3.5 bathrooms, with an area of 3428 sqft. The location in zipcode 85255 is a desirable area, and the property has a high quality build and a large garden. The garage is also present, which is a valuable feature. The number of bedrooms and bathrooms, as well as the area, are important features to focus on when determining the price of the property. Based on these factors, the price prediction for the property is between $500,000 and $600,000.”
+“Label”: 0
+}
+
+{
+“id”: 33,
+“zipcode”: 93446,
+“price_prediction_lower_bound”: 400000,
+“price_prediction_upper_bound”: 500000,
+“rationale”: “The property has three bedrooms and three bathrooms, with an area of 1802 sqft. The property is located in a residential area with good access to amenities and public transportation. The build quality appears to be well maintained, and the garden is well kept. The garage is not present, but there is ample parking space available. The property is priced at the lower end of the range, which is reasonable considering the location and the number of bedrooms and bathrooms. The property is likely to attract first time buyers or investors looking for a rental property.”
+“Label”: 0
+}
+
+{
+“id”: 34,
+“zipcode”: 85262,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 700000,
+“rationale”: “The property is located in a desirable area with a high demand for housing. The number of bedrooms and bathrooms is suitable for a family, and the area is relatively large for the price range. The property is also well-maintained and has a modern design, which adds to its value. However, the price range is slightly higher than the average for the area, which may make it less accessible to some potential buyers.”
+“Label”: 1
+}
+
+{
+“id”: 35,
+“zipcode”: 85377,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 700000,
+“rationale”: “The property has 4 bedrooms and 4.0 bathrooms, with an area of 3260 sqft. The location in Sedona, Arizona is a desirable area, and the property has a beautiful view of the surrounding mountains. The build quality is high, with wooden beams and large windows that provide ample natural light. The property also has a large garage, which is a valuable feature. However, the price range is relatively high, and it may be difficult to find a buyer who is willing to pay the upper bound of $700,000.”
+“Label”: 1
+}
+
+{
+“id”: 36,
+“zipcode”: 85255,
+“price_prediction_lower_bound”: 700000,
+“price_prediction_upper_bound”: 800000,
+“rationale”: “The property has three bedrooms and four and a half bathrooms, which is a good size for a family. The area of 3893 square feet is also reasonable for the number of bedrooms and bathrooms. The property is located in a desirable area, and the build quality appears to be high. The garage is also a plus. Given these factors, the price prediction for this property is likely to be in the range of $700,000 to $800,000.”
+“Label”: 1
+}
+
+{
+“id”: 37,
+“zipcode”: 85262,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has 5 bedrooms and 5.5 bathrooms, which is a good size for a family. The area of 3932 square feet is also reasonable for the number of bedrooms and bathrooms. The property is located in a desirable area with a high demand for housing. The build quality appears to be of good quality, with a well-maintained exterior and a spacious interior. The property also has a large backyard and a garage, which is a plus. However, the price range of $500,000 to $600,000 is slightly lower than the average price for similar properties in the area. Therefore, the price prediction for this property is $500,000 to $600,000.”
+“Label”: 1
+}
+
+{
+“id”: 38,
+“zipcode”: 85255,
+“price_prediction_lower_bound”: 450000,
+“price_prediction_upper_bound”: 550000,
+“rationale”: “The property has three bedrooms and three and a half bathrooms, which is a good size for a family. The area of 2792 square feet is also reasonable for the price range. The property is located in a desirable area with a high demand for housing. The build quality appears to be of good quality, and the garden and garage are not present. Given these factors, the price range for this property is likely to be between $450,000 and $550,000.”
+“Label”: 0
+}
+
+{
+“id”: 39,
+“zipcode”: 85255,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has three bedrooms and four and a half bathrooms, which is a good size for a family. The area is also relatively large at 4228 square feet. The property is located in a desirable area with a high demand for housing. The build quality is of good quality, with a red brick exterior and a well-maintained garden. The garage is also present, which is a plus. All of these factors contribute to a price prediction of $500,000 to $600,000.”
+“Label”: 1
+}
+
+{
+“id”: 40,
+“zipcode”: 93446,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has three bedrooms and three bathrooms, with an area of 2146 sqft. The property is located in a desirable area with good schools and access to amenities. The build quality is modern and well maintained. The garden is small but well kept. The garage is not present. Given the location and the number of bedrooms and bathrooms, the price range for this property is likely to be between $500,000 and $600,000. The price range is determined by the location, the number of bedrooms and bathrooms, and the size of the property.”
+“Label”: 0
+}
+
+{
+“id”: 41,
+“zipcode”: 98021,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has four bedrooms and one bathroom, with an area of 9583 sqft. The property is located in a desirable area with a high demand for housing. The property has a well maintained garden and a garage. The property is in good condition and is a good investment opportunity. The price range is based on recent sales in the area and the current market conditions.”
+“Label”: 1
+}
+
+{
+“id”: 42,
+“zipcode”: 98021,
+“price_prediction_lower_bound”: 700000,
+“price_prediction_upper_bound”: 800000,
+“rationale”: “The property has 5 bedrooms and 2 bathrooms, with an area of 7627 sqft. The property is located in a desirable area with good schools and access to amenities. The build quality is modern and well maintained. The property has a large garage and a well maintained garden. The zipcode is 98021. Based on these factors, the price prediction for this property is between $700,000 and $800,000.”
+“Label”: 1
+}
+
+{
+“id”: 43,
+“zipcode”: 98021,
+“price_prediction_lower_bound”: 500000,
+“price_prediction_upper_bound”: 600000,
+“rationale”: “The property has three bedrooms and two bathrooms, which is a good size for a family. The area of 2153 square feet is also reasonable for the price range of $500,000 to $600,000. The property appears to have a well-maintained exterior and a spacious backyard, which is a plus. However, the property is located in a zip code with a higher average home value, which could affect the price prediction.”
+“Label”: 1
+}
+
+{
+“id”: 44,
+“zipcode”: 98021,
+“price_prediction_lower_bound”: 700000,
+“price_prediction_upper_bound”: 800000,
+“rationale”: “The property has three bedrooms and 2.5 bathrooms, with an area of 2014 sqft. The property is located in a desirable area with good schools and access to amenities. The build quality is of high standard, with a modern kitchen and spacious living areas. The property also has a large garage and a well maintained garden. The property is priced at the higher end of the range due to its high quality and desirable location.”
+“Label”: 1
+}
+
+{
+"id":45,
+“zipcode”: 81524,
+“price_prediction_lower_bound”: 250000,
+“price_prediction_upper_bound”: 350000,
+“rationale”: “The property has four bedrooms and two bathrooms, with an area of 1928 sqft. The property is located in a rural area with a zipcode of 81524. The property has a garage and a garden. The build quality is of good quality. The price range for this property is between 250000 and 350000. The property is in a good location and has good access to amenities. The property is suitable for a family or a couple looking for a second home in a rural area.”
+“Label”: 1
+}
+
+{
+"id":46,
+“zipcode”: 81524,
+“price_prediction_lower_bound”: 200000,
+“price_prediction_upper_bound”: 300000,
+“rationale”: “The property has three bedrooms and three bathrooms, with an area of 2143 sqft. The property is located in a rural area with a zipcode of 81524. The property has a garage and a garden. The build quality appears to be of good quality. The price range for similar properties in the area is between 200000 and 300000. Given the size of the property, the number of bedrooms and bathrooms, and the location, the price prediction for this property is between 200000 and 300000.”
+“Label”: 1
+}
+
+{
+"id":47,
+“zipcode”: 81524,
+“price_prediction_lower_bound”: 250000,
+“price_prediction_upper_bound”: 350000,
+“rationale”: “The property has four bedrooms and three bathrooms, with an area of 2504 square feet. The property is located in a desirable area with a high demand for housing. The build quality is well maintained and the garden is well kept. The garage is not present, but it is not a major factor in the price prediction. The number of bedrooms and bathrooms are the most important features to focus on, and the area is also a significant factor. Based on these factors, the price prediction for this property is between $250,000 and $350,000.”
+“Label”: 0
+}
+
+{
+"id":48,
+“zipcode”: 81524,
+“price_prediction_lower_bound”: 200000,
+“price_prediction_upper_bound”: 300000,
+“rationale”: “The property has three bedrooms and three bathrooms, with an area of 2462 square feet. The property is located in a residential area and has a garage. The build quality appears to be well maintained. The property is located in a zip code with a relatively low average home price, which suggests that the property may be priced competitively. The price range of $200,000 to $300,000 is reasonable considering the size of the property and its location.”
+“Label”: 1
+}
+
+{
+"id":49,
+“zipcode”: 81418,
+“price_prediction_lower_bound”: 250000,
+“price_prediction_upper_bound”: 350000,
+“rationale”: “The property has four bedrooms and three bathrooms, which is a good size for a family. The area of 3904 is also reasonable for the price range. The property appears to be well built and has a garage, which is a plus. However, the property is located in a rural area, which may not be suitable for everyone. The zipcode is also not very desirable. Based on these factors, I would predict the price to be in the range of 250000 to 350000.”
+“Label”: 0
+}
+
+{
+"id":50,
+“zipcode”: 81418,
+“price_prediction_lower_bound”: 200000,
+“price_prediction_upper_bound”: 300000,
+“rationale”: “The property has three bedrooms and two bathrooms, with an area of 2034 sqft. The property is located in a desirable area with good schools and access to amenities. The build quality is of high quality, with wooden floors and large windows. The garden is well maintained and the garage is spacious. The property is in good condition and has recently been renovated. The number of bedrooms and bathrooms are important features to focus on, as well as the area and location. Based on these factors, the price prediction for the property is between $200,000 and $300,000.”
+“Label”: 1
+}
