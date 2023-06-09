@@ -82,6 +82,8 @@ def generate_prompts():
                 print("Could not generate prompt for ID {}\n".format(input_id))
                 continue
 
+            # TODO: Map prices to a more readable format (e.g. 1000 -> 1k, 1000000 -> 1M, etc.)
+            # TODO: Map rationales to a complete markdown text of the whole section such that empty string means no advice and also properly shows no headers etc.
             prompt_data = {
                 "input_values": {
                     "id": input_id,
