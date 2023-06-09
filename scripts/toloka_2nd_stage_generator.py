@@ -88,6 +88,7 @@ def generate_prompts():
                     "price": input_price,
                     "ai_price": str(ai_responses[input_id]["price_prediction_lower_bound"]) + " - " + str(ai_responses[input_id]["price_prediction_upper_bound"]),
                     "ai_advice": ai_responses[input_id]["rationale"],
+                    "ai_advice_quality": ai_responses[input_id]["rationale_quality"],
                     "image_urls": json.loads(input_image_urls.replace('"{', '{').replace('}"', '}')),
                     "n_bedrooms": input_n_bedrooms,
                     "coordinates": coordinates,

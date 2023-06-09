@@ -5,6 +5,7 @@
       "price": 1039000,
       "ai_price": "500000 - 600000",
       "ai_advice": "",
+      "ai_advice_quality": 0,
       "image_urls": {
         "frontal_view": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/32_frontal.jpg",
         "kitchen": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/32_kitchen.jpg",
@@ -1347,6 +1348,7 @@
       "price": 1039000,
       "ai_price": "500000 - 600000",
       "ai_advice": "",
+      "ai_advice_quality": 0,
       "image_urls": {
         "frontal_view": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/32_frontal.jpg",
         "kitchen": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/32_kitchen.jpg",
@@ -2689,6 +2691,7 @@
       "price": 1039000,
       "ai_price": "500000 - 600000",
       "ai_advice": "",
+      "ai_advice_quality": 0,
       "image_urls": {
         "frontal_view": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/32_frontal.jpg",
         "kitchen": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/32_kitchen.jpg",
@@ -4031,6 +4034,7 @@
       "price": 1039000,
       "ai_price": "500000 - 600000",
       "ai_advice": "",
+      "ai_advice_quality": 0,
       "image_urls": {
         "frontal_view": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/32_frontal.jpg",
         "kitchen": "https://raw.githubusercontent.com/emanhamed/Houses-dataset/master/Houses%20Dataset/32_kitchen.jpg",
