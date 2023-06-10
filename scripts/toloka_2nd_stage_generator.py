@@ -159,17 +159,17 @@ def format_price(price: str) -> str:
 
     # Format: MILLIONS
     if lower_nr <= 10:
-        lower_formatted = "$" + str(int(lower_nr * 1000000))
+        lower_formatted = f"${int(lower_nr * 1000000):,}"
 
     if upper_nr <= 10:
-        upper_formatted = "$" + str(int(upper_nr * 1000000))
+        upper_formatted = f"${int(upper_nr * 1000000):,}"
 
     # Format: THOUSANDS
     if lower_nr > 10 and lower_nr <= 1000:
-        lower_formatted = "$" + str(int(lower_nr * 1000))
+        lower_formatted = f"${int(lower_nr * 1000):,}"
 
     if upper_nr > 10 and upper_nr <= 1000:
-        upper_formatted = "$" + str(int(upper_nr * 1000))
+        upper_formatted = f"${int(upper_nr * 1000):,}"
 
     # Return in range format
     return lower_formatted + " - " + upper_formatted
