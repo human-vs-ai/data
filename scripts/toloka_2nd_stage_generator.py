@@ -1,3 +1,4 @@
+import itertools
 import json
 import math
 import pandas as pd
@@ -20,6 +21,7 @@ __OUTPUT_FOLDER = os.path.join(os.path.dirname(os.path.dirname(
 
 
 def generate_prompts():
+    all_prompts = []
 
     if not os.path.exists(__OUTPUT_FOLDER):
         os.makedirs(__OUTPUT_FOLDER)
@@ -122,6 +124,8 @@ def generate_prompts():
                 none_prompt
             ]
 
+            all_prompts.append(prompt)
+
             # Write to file in JSON format in the output folder
             with open(os.path.join(__OUTPUT_FOLDER, str(input_id) + ".json"), 'w') as f:
                 json.dump(prompt, f, indent=2)
@@ -131,6 +135,10 @@ def generate_prompts():
 
         else:
             distinct_ids.add(input_id)
+
+    # Write all prompts to a single file
+    with open(os.path.join(__OUTPUT_FOLDER, "all_prompts.json"), 'w') as f:
+        json.dump(list(itertools.chain(*all_prompts)), f, indent=2)
 
     print("\nSUMMARY")
     print("----------------------------------------")
