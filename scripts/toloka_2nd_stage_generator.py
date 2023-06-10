@@ -4,6 +4,7 @@ import pandas as pd
 import os
 import zip2latlong
 import zipborders
+import copy
 
 __RESPONSES_FOLDER = os.path.join(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__))), "data", "responses")
@@ -102,15 +103,15 @@ def generate_prompts():
                 }
             }
 
-            both_prompt = prompt_data.copy()
+            both_prompt = copy.deepcopy(prompt_data)
 
-            ai_prompt = prompt_data.copy()
+            ai_prompt = copy.deepcopy(prompt_data)
             ai_prompt["input_values"]["human_advice"] = ""
 
-            human_prompt = prompt_data.copy()
+            human_prompt = copy.deepcopy(prompt_data)
             human_prompt["input_values"]["ai_advice"] = ""
 
-            none_prompt = prompt_data.copy()
+            none_prompt = copy.deepcopy(prompt_data)
             none_prompt["input_values"]["ai_advice"] = ""
             none_prompt["input_values"]["human_advice"] = ""
 
