@@ -46,7 +46,7 @@ def generate_prompts():
 
     # Load human data
     df = pd.read_excel(__HUMAN_DATA_FILE)
-    for index, row in df.iterrows():
+    for _, row in df.iterrows():
         input_id = row['INPUT:id']
         input_price = row['INPUT:price']
         input_image_urls = row['INPUT:image_urls']
@@ -89,13 +89,13 @@ def generate_prompts():
                 "input_values": {
                     "id": input_id,
                     "price": input_price,
-                    "ai_price": str(ai_responses[input_id]["price_prediction_lower_bound"]) + " - " + str(ai_responses[input_id]["price_prediction_upper_bound"]),
+                    "ai_price": format_price(str(ai_responses[input_id]["price_prediction_lower_bound"]) + " - " + str(ai_responses[input_id]["price_prediction_upper_bound"])),
                     "ai_advice": ai_responses[input_id]["rationale"],
                     "ai_advice_quality": ai_responses[input_id]["rationale_quality"],
                     "image_urls": json.loads(input_image_urls.replace('"{', '{').replace('}"', '}')),
                     "n_bedrooms": input_n_bedrooms,
                     "coordinates": coordinates,
-                    "human_price": output_price,
+                    "human_price": format_price(output_price),
                     "n_bathrooms": input_n_bathrooms,
                     "human_advice": output_rationale,
                     "surface_area_m2": input_surface_area_m2,
@@ -142,6 +142,37 @@ def generate_prompts():
     print("Matching IDs: {}".format(matching_ids))
     print("----------------------------------------")
     print("Distinct IDs: {}\n".format(distinct_ids))
+
+
+def format_price(price: str) -> str:
+    lower, upper = price.split("-")
+    lower = lower.strip()
+    upper = upper.strip()
+
+    # Convert to float to check range representation of input
+    lower_nr = float(lower)
+    upper_nr = float(upper)
+
+    # Format: DEFAULT
+    lower_formatted = "$" + lower
+    upper_formatted = "$" + upper
+
+    # Format: MILLIONS
+    if lower_nr <= 10:
+        lower_formatted = "$" + str(int(lower_nr * 1000000))
+
+    if upper_nr <= 10:
+        upper_formatted = "$" + str(int(upper_nr * 1000000))
+
+    # Format: THOUSANDS
+    if lower_nr > 10 and lower_nr <= 1000:
+        lower_formatted = "$" + str(int(lower_nr * 1000))
+
+    if upper_nr > 10 and upper_nr <= 1000:
+        upper_formatted = "$" + str(int(upper_nr * 1000))
+
+    # Return in range format
+    return lower_formatted + " - " + upper_formatted
 
 
 if __name__ == '__main__':

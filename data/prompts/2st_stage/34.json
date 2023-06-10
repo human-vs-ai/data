@@ -3,7 +3,7 @@
     "input_values": {
       "id": 34,
       "price": 1695000,
-      "ai_price": "500000 - 700000",
+      "ai_price": "$500000 - $700000",
       "ai_advice": "The property is located in a desirable area with a high demand for housing. The number of bedrooms and bathrooms is suitable for a family, and the area is relatively large for the price range. The property is also well-maintained and has a modern design, which adds to its value. However, the price range is slightly higher than the average for the area, which may make it less accessible to some potential buyers.",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -2911,7 +2911,7 @@
           "33.824983,-111.875514"
         ]
       },
-      "human_price": "1.25-1.5",
+      "human_price": "$1250000 - $1500000",
       "n_bathrooms": 3.5,
       "human_advice": "The house seems like a villa in outskirts which makes it more desired by buyers who want noise free environment near cities ",
       "surface_area_m2": 267,
@@ -2922,7 +2922,7 @@
     "input_values": {
       "id": 34,
       "price": 1695000,
-      "ai_price": "500000 - 700000",
+      "ai_price": "$500000 - $700000",
       "ai_advice": "The property is located in a desirable area with a high demand for housing. The number of bedrooms and bathrooms is suitable for a family, and the area is relatively large for the price range. The property is also well-maintained and has a modern design, which adds to its value. However, the price range is slightly higher than the average for the area, which may make it less accessible to some potential buyers.",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -5830,7 +5830,7 @@
           "33.824983,-111.875514"
         ]
       },
-      "human_price": "1.25-1.5",
+      "human_price": "$1250000 - $1500000",
       "n_bathrooms": 3.5,
       "human_advice": "",
       "surface_area_m2": 267,
@@ -5841,7 +5841,7 @@
     "input_values": {
       "id": 34,
       "price": 1695000,
-      "ai_price": "500000 - 700000",
+      "ai_price": "$500000 - $700000",
       "ai_advice": "",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -8749,7 +8749,7 @@
           "33.824983,-111.875514"
         ]
       },
-      "human_price": "1.25-1.5",
+      "human_price": "$1250000 - $1500000",
       "n_bathrooms": 3.5,
       "human_advice": "The house seems like a villa in outskirts which makes it more desired by buyers who want noise free environment near cities ",
       "surface_area_m2": 267,
@@ -8760,7 +8760,7 @@
     "input_values": {
       "id": 34,
       "price": 1695000,
-      "ai_price": "500000 - 700000",
+      "ai_price": "$500000 - $700000",
       "ai_advice": "",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -11668,7 +11668,7 @@
           "33.824983,-111.875514"
         ]
       },
-      "human_price": "1.25-1.5",
+      "human_price": "$1250000 - $1500000",
       "n_bathrooms": 3.5,
       "human_advice": "",
       "surface_area_m2": 267,

@@ -3,7 +3,7 @@
     "input_values": {
       "id": 39,
       "price": 1229000,
-      "ai_price": "500000 - 600000",
+      "ai_price": "$500000 - $600000",
       "ai_advice": "The property has three bedrooms and four and a half bathrooms, which is a good size for a family. The area is also relatively large at 4228 square feet. The property is located in a desirable area with a high demand for housing. The build quality is of good quality, with a red brick exterior and a well-maintained garden. The garage is also present, which is a plus. All of these factors contribute to a price prediction of $500,000 to $600,000.",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -1335,7 +1335,7 @@
           "33.72681,-111.833342"
         ]
       },
-      "human_price": "800-900",
+      "human_price": "$800000 - $900000",
       "n_bathrooms": 4.5,
       "human_advice": "The house has a large surface area and from the images we can see that the property also includes a big garden.\nThe zip code is located in a big city, near a river and some popular places.\nThe house decoration seems to be luxurious as well.",
       "surface_area_m2": 393,
@@ -1346,7 +1346,7 @@
     "input_values": {
       "id": 39,
       "price": 1229000,
-      "ai_price": "500000 - 600000",
+      "ai_price": "$500000 - $600000",
       "ai_advice": "The property has three bedrooms and four and a half bathrooms, which is a good size for a family. The area is also relatively large at 4228 square feet. The property is located in a desirable area with a high demand for housing. The build quality is of good quality, with a red brick exterior and a well-maintained garden. The garage is also present, which is a plus. All of these factors contribute to a price prediction of $500,000 to $600,000.",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -2678,7 +2678,7 @@
           "33.72681,-111.833342"
         ]
       },
-      "human_price": "800-900",
+      "human_price": "$800000 - $900000",
       "n_bathrooms": 4.5,
       "human_advice": "",
       "surface_area_m2": 393,
@@ -2689,7 +2689,7 @@
     "input_values": {
       "id": 39,
       "price": 1229000,
-      "ai_price": "500000 - 600000",
+      "ai_price": "$500000 - $600000",
       "ai_advice": "",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -4021,7 +4021,7 @@
           "33.72681,-111.833342"
         ]
       },
-      "human_price": "800-900",
+      "human_price": "$800000 - $900000",
       "n_bathrooms": 4.5,
       "human_advice": "The house has a large surface area and from the images we can see that the property also includes a big garden.\nThe zip code is located in a big city, near a river and some popular places.\nThe house decoration seems to be luxurious as well.",
       "surface_area_m2": 393,
@@ -4032,7 +4032,7 @@
     "input_values": {
       "id": 39,
       "price": 1229000,
-      "ai_price": "500000 - 600000",
+      "ai_price": "$500000 - $600000",
       "ai_advice": "",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -5364,7 +5364,7 @@
           "33.72681,-111.833342"
         ]
       },
-      "human_price": "800-900",
+      "human_price": "$800000 - $900000",
       "n_bathrooms": 4.5,
       "human_advice": "",
       "surface_area_m2": 393,

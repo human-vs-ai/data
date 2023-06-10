@@ -3,7 +3,7 @@
     "input_values": {
       "id": 45,
       "price": 350000,
-      "ai_price": "250000 - 350000",
+      "ai_price": "$250000 - $350000",
       "ai_advice": "The property has four bedrooms and two bathrooms, with an area of 1928 sqft. The property is located in a rural area with a zipcode of 81524. The property has a garage and a garden. The build quality is of good quality. The price range for this property is between 250000 and 350000. The property is in a good location and has good access to amenities. The property is suitable for a family or a couple looking for a second home in a rural area.",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -3532,7 +3532,7 @@
           "39.214416,-108.867911"
         ]
       },
-      "human_price": "400-500",
+      "human_price": "$400000 - $500000",
       "n_bathrooms": 2.0,
       "human_advice": "Budgeted house for mid size family",
       "surface_area_m2": 179,
@@ -3543,7 +3543,7 @@
     "input_values": {
       "id": 45,
       "price": 350000,
-      "ai_price": "250000 - 350000",
+      "ai_price": "$250000 - $350000",
       "ai_advice": "The property has four bedrooms and two bathrooms, with an area of 1928 sqft. The property is located in a rural area with a zipcode of 81524. The property has a garage and a garden. The build quality is of good quality. The price range for this property is between 250000 and 350000. The property is in a good location and has good access to amenities. The property is suitable for a family or a couple looking for a second home in a rural area.",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -7072,7 +7072,7 @@
           "39.214416,-108.867911"
         ]
       },
-      "human_price": "400-500",
+      "human_price": "$400000 - $500000",
       "n_bathrooms": 2.0,
       "human_advice": "",
       "surface_area_m2": 179,
@@ -7083,7 +7083,7 @@
     "input_values": {
       "id": 45,
       "price": 350000,
-      "ai_price": "250000 - 350000",
+      "ai_price": "$250000 - $350000",
       "ai_advice": "",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -10612,7 +10612,7 @@
           "39.214416,-108.867911"
         ]
       },
-      "human_price": "400-500",
+      "human_price": "$400000 - $500000",
       "n_bathrooms": 2.0,
       "human_advice": "Budgeted house for mid size family",
       "surface_area_m2": 179,
@@ -10623,7 +10623,7 @@
     "input_values": {
       "id": 45,
       "price": 350000,
-      "ai_price": "250000 - 350000",
+      "ai_price": "$250000 - $350000",
       "ai_advice": "",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -14152,7 +14152,7 @@
           "39.214416,-108.867911"
         ]
       },
-      "human_price": "400-500",
+      "human_price": "$400000 - $500000",
       "n_bathrooms": 2.0,
       "human_advice": "",
       "surface_area_m2": 179,
