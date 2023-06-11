@@ -161,7 +161,7 @@ def format_price(price: str) -> str:
     lower_nr = float(lower)
     upper_nr = float(upper)
 
-    # Format: DEFAULT
+    # Format prices
     lower_formatted = "$" + lower
     upper_formatted = "$" + upper
 
@@ -178,6 +178,13 @@ def format_price(price: str) -> str:
 
     if upper_nr > 10 and upper_nr <= 1000:
         upper_formatted = f"${int(upper_nr * 1000):,}"
+
+    # Format: DEFAULT
+    if lower_nr > 1000:
+        lower_formatted = f"${int(lower):,}"
+
+    if upper_nr > 1000:
+        upper_formatted = f"${int(upper):,}"
 
     # Return in range format
     return lower_formatted + " - " + upper_formatted

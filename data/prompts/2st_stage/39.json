@@ -3,7 +3,7 @@
     "input_values": {
       "id": 39,
       "price": 1229000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "The property has three bedrooms and four and a half bathrooms, which is a good size for a family. The area is also relatively large at 4228 square feet. The property is located in a desirable area with a high demand for housing. The build quality is of good quality, with a red brick exterior and a well-maintained garden. The garage is also present, which is a plus. All of these factors contribute to a price prediction of $500,000 to $600,000.",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -1346,7 +1346,7 @@
     "input_values": {
       "id": 39,
       "price": 1229000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "The property has three bedrooms and four and a half bathrooms, which is a good size for a family. The area is also relatively large at 4228 square feet. The property is located in a desirable area with a high demand for housing. The build quality is of good quality, with a red brick exterior and a well-maintained garden. The garage is also present, which is a plus. All of these factors contribute to a price prediction of $500,000 to $600,000.",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -2689,7 +2689,7 @@
     "input_values": {
       "id": 39,
       "price": 1229000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -4032,7 +4032,7 @@
     "input_values": {
       "id": 39,
       "price": 1229000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "",
       "ai_advice_quality": 1,
       "image_urls": {

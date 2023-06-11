@@ -3,7 +3,7 @@
     "input_values": {
       "id": 50,
       "price": 415000,
-      "ai_price": "$200000 - $300000",
+      "ai_price": "$200,000 - $300,000",
       "ai_advice": "The property has three bedrooms and two bathrooms, with an area of 2034 sqft. The property is located in a desirable area with good schools and access to amenities. The build quality is of high quality, with wooden floors and large windows. The garden is well maintained and the garage is spacious. The property is in good condition and has recently been renovated. The number of bedrooms and bathrooms are important features to focus on, as well as the area and location. Based on these factors, the price prediction for the property is between $200,000 and $300,000.",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -1296,7 +1296,7 @@
     "input_values": {
       "id": 50,
       "price": 415000,
-      "ai_price": "$200000 - $300000",
+      "ai_price": "$200,000 - $300,000",
       "ai_advice": "The property has three bedrooms and two bathrooms, with an area of 2034 sqft. The property is located in a desirable area with good schools and access to amenities. The build quality is of high quality, with wooden floors and large windows. The garden is well maintained and the garage is spacious. The property is in good condition and has recently been renovated. The number of bedrooms and bathrooms are important features to focus on, as well as the area and location. Based on these factors, the price prediction for the property is between $200,000 and $300,000.",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -2589,7 +2589,7 @@
     "input_values": {
       "id": 50,
       "price": 415000,
-      "ai_price": "$200000 - $300000",
+      "ai_price": "$200,000 - $300,000",
       "ai_advice": "",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -3882,7 +3882,7 @@
     "input_values": {
       "id": 50,
       "price": 415000,
-      "ai_price": "$200000 - $300000",
+      "ai_price": "$200,000 - $300,000",
       "ai_advice": "",
       "ai_advice_quality": 1,
       "image_urls": {

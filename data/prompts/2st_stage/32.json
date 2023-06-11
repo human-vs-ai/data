@@ -3,7 +3,7 @@
     "input_values": {
       "id": 32,
       "price": 1039000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "The property has 4 bedrooms and 3.5 bathrooms, with an area of 3428 sqft. The location in zipcode 85255 is a desirable area, and the property has a high quality build and a large garden. The garage is also present, which is a valuable feature. The number of bedrooms and bathrooms, as well as the area, are important features to focus on when determining the price of the property. Based on these factors, the price prediction for the property is between $500,000 and $600,000.",
       "ai_advice_quality": 0,
       "image_urls": {
@@ -1346,7 +1346,7 @@
     "input_values": {
       "id": 32,
       "price": 1039000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "The property has 4 bedrooms and 3.5 bathrooms, with an area of 3428 sqft. The location in zipcode 85255 is a desirable area, and the property has a high quality build and a large garden. The garage is also present, which is a valuable feature. The number of bedrooms and bathrooms, as well as the area, are important features to focus on when determining the price of the property. Based on these factors, the price prediction for the property is between $500,000 and $600,000.",
       "ai_advice_quality": 0,
       "image_urls": {
@@ -2689,7 +2689,7 @@
     "input_values": {
       "id": 32,
       "price": 1039000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "",
       "ai_advice_quality": 0,
       "image_urls": {
@@ -4032,7 +4032,7 @@
     "input_values": {
       "id": 32,
       "price": 1039000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "",
       "ai_advice_quality": 0,
       "image_urls": {

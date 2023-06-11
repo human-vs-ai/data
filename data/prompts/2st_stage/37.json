@@ -3,7 +3,7 @@
     "input_values": {
       "id": 37,
       "price": 1089000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "The property has 5 bedrooms and 5.5 bathrooms, which is a good size for a family. The area of 3932 square feet is also reasonable for the number of bedrooms and bathrooms. The property is located in a desirable area with a high demand for housing. The build quality appears to be of good quality, with a well-maintained exterior and a spacious interior. The property also has a large backyard and a garage, which is a plus. However, the price range of $500,000 to $600,000 is slightly lower than the average price for similar properties in the area. Therefore, the price prediction for this property is $500,000 to $600,000.",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -2922,7 +2922,7 @@
     "input_values": {
       "id": 37,
       "price": 1089000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "The property has 5 bedrooms and 5.5 bathrooms, which is a good size for a family. The area of 3932 square feet is also reasonable for the number of bedrooms and bathrooms. The property is located in a desirable area with a high demand for housing. The build quality appears to be of good quality, with a well-maintained exterior and a spacious interior. The property also has a large backyard and a garage, which is a plus. However, the price range of $500,000 to $600,000 is slightly lower than the average price for similar properties in the area. Therefore, the price prediction for this property is $500,000 to $600,000.",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -5841,7 +5841,7 @@
     "input_values": {
       "id": 37,
       "price": 1089000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "",
       "ai_advice_quality": 1,
       "image_urls": {
@@ -8760,7 +8760,7 @@
     "input_values": {
       "id": 37,
       "price": 1089000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "",
       "ai_advice_quality": 1,
       "image_urls": {

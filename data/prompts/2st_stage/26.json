@@ -3,7 +3,7 @@
     "input_values": {
       "id": 26,
       "price": 1290000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "The property has four bedrooms and four bathrooms, with an area of 4954 sqft. The build quality appears to be high, with a well-maintained garden and a garage. The location in the zipcode 85262 is a desirable area, and the property is likely to be in high demand. The price range of $500,000 to $600,000 is reasonable considering the size and quality of the property.",
       "ai_advice_quality": 0,
       "image_urls": {
@@ -2922,7 +2922,7 @@
     "input_values": {
       "id": 26,
       "price": 1290000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "The property has four bedrooms and four bathrooms, with an area of 4954 sqft. The build quality appears to be high, with a well-maintained garden and a garage. The location in the zipcode 85262 is a desirable area, and the property is likely to be in high demand. The price range of $500,000 to $600,000 is reasonable considering the size and quality of the property.",
       "ai_advice_quality": 0,
       "image_urls": {
@@ -5841,7 +5841,7 @@
     "input_values": {
       "id": 26,
       "price": 1290000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "",
       "ai_advice_quality": 0,
       "image_urls": {
@@ -8760,7 +8760,7 @@
     "input_values": {
       "id": 26,
       "price": 1290000,
-      "ai_price": "$500000 - $600000",
+      "ai_price": "$500,000 - $600,000",
       "ai_advice": "",
       "ai_advice_quality": 0,
       "image_urls": {
