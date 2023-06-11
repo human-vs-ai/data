@@ -11,7 +11,7 @@ __RESPONSES_FOLDER = os.path.join(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__))), "data", "responses")
 
 __HUMAN_DATA_FILE = os.path.join(
-    __RESPONSES_FOLDER, "filtered-stage-1-pool-2-06-06-2023.xls")
+    __RESPONSES_FOLDER, "submissions_stage1_pool3.xls")
 
 __AI_DATA_FILE = os.path.join(
     __RESPONSES_FOLDER, "filtered_prompts_AI_1st_stage.json")
@@ -37,6 +37,7 @@ def generate_prompts():
     ai_responses = dict()
     matching_ids = set()
     distinct_ids = set()
+    file_name_ids = dict()
 
     # Load AI data
     with open(__AI_DATA_FILE, 'r') as f:
@@ -126,8 +127,14 @@ def generate_prompts():
 
             all_prompts.append(prompt)
 
+            # For multiple human responses, create unique identifier for filenames
+            if input_id not in file_name_ids:
+                file_name_ids[input_id] = 1
+            else:
+                file_name_ids[input_id] += 1
+
             # Write to file in JSON format in the output folder
-            with open(os.path.join(__OUTPUT_FOLDER, str(input_id) + ".json"), 'w') as f:
+            with open(os.path.join(__OUTPUT_FOLDER, str(input_id) + "_" + str(file_name_ids[input_id]) + ".json"), 'w') as f:
                 json.dump(prompt, f, indent=2)
 
             # print("Prompt for ID {} generated:\n{}\n".format(
