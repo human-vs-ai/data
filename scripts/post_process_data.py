@@ -90,10 +90,10 @@ def post_process_results(filename: str = __OUTPUT_FILENAME):
                 'ai': _parse_price_prediction(prediction_ai)
             },
             'rationales': {
-                'human': True if type(rationale_human) == 'str' else False,
-                'ai': True if type(rationale_ai) == 'str' else False,
-                'human_rationale': rationale_human if type(rationale_human) == 'str' else "",
-                'ai_rationale': rationale_ai if type(rationale_ai) == 'str' else ""
+                'human': True if type(rationale_human) == str else False,
+                'ai': True if type(rationale_ai) == str else False,
+                'human_rationale': rationale_human if type(rationale_human) == str else "",
+                'ai_rationale': rationale_ai if type(rationale_ai) == str else ""
             },
             'quality_ai': int(prediction_ai_quality),
             'responses': {
