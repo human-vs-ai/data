@@ -1,10 +1,10 @@
 import json
 from typing import List
 import uszipcode
+from uszipcode.search import SearchEngine as se
 
 # Create an instance of the SearchEngine
-search = uszipcode.SearchEngine(
-    simple_or_comprehensive=uszipcode.SearchEngine.SimpleOrComprehensiveArgEnum.comprehensive)
+search = se(simple_or_comprehensive=se.SimpleOrComprehensiveArgEnum.comprehensive)
 
 
 def get_zipcode_bounds(zipcode: str) -> List[str]:
