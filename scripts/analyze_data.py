@@ -3,6 +3,10 @@ import json
 import os
 from typing import Union
 
+# Plotting
+import seaborn as sns
+import matplotlib.pyplot as plt
+
 from pyparsing import Dict
 
 __OUTPUT_FOLDER = os.path.join(os.path.dirname(os.path.dirname(
@@ -95,6 +99,45 @@ def analyze_results(filename: str = __OUTPUT_FILENAME):
     print("Yes-No: {}".format(yes_no))
     print("No-Yes: {}".format(no_yes))
     print("No-No: {}".format(no_no))
+
+    # Plot results in a 2x2 grid of bar charts of the binary ratings: Human, Equal, AI
+    _, axs = plt.subplots(2, 2, figsize=(8, 6))
+    sns.barplot(x=['Human', 'Equal', 'AI'], y=[yes_yes['binary']['human'], yes_yes['binary']['equal'], yes_yes['binary']['ai']],
+                ax=axs[1, 1]).set_title("Both rationales shown")
+    sns.barplot(x=['Human', 'Equal', 'AI'], y=[yes_no['binary']['human'], yes_no['binary']['equal'], yes_no['binary']['ai']],
+                ax=axs[1, 0]).set_title("Only human rationale shown")
+    sns.barplot(x=['Human', 'Equal', 'AI'], y=[no_yes['binary']['human'], no_yes['binary']['equal'], no_yes['binary']['ai']],
+                ax=axs[0, 1]).set_title("Only AI rationale shown")
+    sns.barplot(x=['Human', 'Equal', 'AI'], y=[no_no['binary']['human'], no_no['binary']['equal'], no_no['binary']['ai']],
+                ax=axs[0, 0]).set_title("No rationales shown")
+
+    # Set the color of Human to green, equal to yellow and AI to red
+    for ax in axs.flat:
+        ax.patches[0].set_color('#a044ff')
+        ax.patches[1].set_color('#FFC371')
+        ax.patches[2].set_color('#FF5F6D')
+
+    plt.tight_layout()
+    plt.show()
+
+    # Plot results in a 2x2 grid of bar charts of the normalized ratings: Human, AI
+    _, axs = plt.subplots(2, 2, figsize=(8, 6))
+    sns.barplot(x=['Human', 'AI'], y=[yes_yes['normalized']['human'], yes_yes['normalized']['ai']],
+                ax=axs[1, 1]).set_title("Both rationales shown")
+    sns.barplot(x=['Human', 'AI'], y=[yes_no['normalized']['human'], yes_no['normalized']['ai']],
+                ax=axs[1, 0]).set_title("Only human rationale shown")
+    sns.barplot(x=['Human', 'AI'], y=[no_yes['normalized']['human'], no_yes['normalized']['ai']],
+                ax=axs[0, 1]).set_title("Only AI rationale shown")
+    sns.barplot(x=['Human', 'AI'], y=[no_no['normalized']['human'], no_no['normalized']['ai']],
+                ax=axs[0, 0]).set_title("No rationales shown")
+
+    # Set the color of Human to green and AI to red
+    for ax in axs.flat:
+        ax.patches[0].set_color('#a044ff')
+        ax.patches[1].set_color('#FF5F6D')
+
+    plt.tight_layout()
+    plt.show()
 
 
 def _add_ratings(human: int, ai: int, comparison_dict: dict, scale: float = 5.0):
