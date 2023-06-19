@@ -1,0 +1,228 @@
+_key,id,price,bedrooms,bathrooms,area/m2,area/sq_ft,predictions/human/0,predictions/human/1,predictions/ai/0,predictions/ai/1,rationales/human/0,rationales/ai/0,rationales/human_rationale,rationales/ai_rationale,quality_ai,responses/ai/0,responses/human/0,responses/verdict
+26_14,26,1290000,4,4.0,460,4954,800000,900000,500000,600000,True,False,"Nice area, lots of free Parking space for cars. The exterior is very unusual architecture, but inside it is cute and free.",,0,1,4,1
+26_19,26,1290000,4,4.0,460,4954,800000,900000,500000,600000,True,False,"Nice area, lots of free Parking space for cars. The exterior is very unusual architecture, but inside it is cute and free.",,0,2,4,1
+26_20,26,1290000,4,4.0,460,4954,700000,800000,500000,600000,True,False,"Beautiful furniture, cozy atmosphere. But overall external design leaves much to be desired. ",,0,2,2,0
+26_21,26,1290000,4,4.0,460,4954,800000,900000,500000,600000,True,False,"Nice area, lots of free Parking space for cars. The exterior is very unusual architecture, but inside it is cute and free.",,0,3,3,0
+26_22,26,1290000,4,4.0,460,4954,800000,900000,500000,600000,True,False,"Nice area, lots of free Parking space for cars. The exterior is very unusual architecture, but inside it is cute and free.",,0,4,3,0
+26_28,26,1290000,4,4.0,460,4954,800000,900000,500000,600000,True,False,"Nice area, lots of free Parking space for cars. The exterior is very unusual architecture, but inside it is cute and free.",,0,2,4,1
+27_1,27,962500,4,4.5,330,3550,800000,900000,700000,800000,True,False,looks like very good and have 4 bed i think this price gonna be good,,1,3,3,2
+27_3,27,962500,4,4.5,330,3550,800000,900000,700000,800000,True,False,looks like very good and have 4 bed i think this price gonna be good,,1,1,3,1
+27_5,27,962500,4,4.5,330,3550,700000,800000,700000,800000,True,False,"Nice house , in a nice neighborhood , quite cozy , though not very big",,1,2,4,1
+27_13,27,962500,4,4.5,330,3550,700000,800000,700000,800000,True,False,"Nice house , in a nice neighborhood , quite cozy , though not very big",,1,1,2,1
+27_14,27,962500,4,4.5,330,3550,700000,800000,700000,800000,True,False,"Nice house , in a nice neighborhood , quite cozy , though not very big",,1,1,3,1
+27_16,27,962500,4,4.5,330,3550,700000,800000,700000,800000,True,False,"Nice house , in a nice neighborhood , quite cozy , though not very big",,1,1,3,1
+27_24,27,962500,4,4.5,330,3550,800000,900000,700000,800000,True,False,looks like very good and have 4 bed i think this price gonna be good,,1,5,5,0
+27_26,27,962500,4,4.5,330,3550,900000,1000000,700000,800000,True,False,A very large house. Repair is awesome. Everything is tastefully done. There are all conditions for a comfortable stay.,,1,3,5,1
+27_29,27,962500,4,4.5,330,3550,900000,1000000,700000,800000,True,False,A very large house. Repair is awesome. Everything is tastefully done. There are all conditions for a comfortable stay.,,1,1,4,1
+27_33,27,962500,4,4.5,330,3550,700000,800000,700000,800000,True,False,"Nice house , in a nice neighborhood , quite cozy , though not very big",,1,1,3,1
+28_3,28,875000,5,4.5,388,4180,1250000,1500000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a large fancy kitchen and bathrooms.
+The zip code is located in a big city and near the hills.",,1,1,5,1
+28_9,28,875000,5,4.5,388,4180,1250000,1500000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a large fancy kitchen and bathrooms.
+The zip code is located in a big city and near the hills.",,1,1,4,1
+28_12,28,875000,5,4.5,388,4180,600000,700000,700000,800000,True,False,Total are total five bedrooms of the house and open space in front,,1,1,4,1
+28_14,28,875000,5,4.5,388,4180,600000,700000,700000,800000,True,False,Total are total five bedrooms of the house and open space in front,,1,1,1,2
+28_16,28,875000,5,4.5,388,4180,1250000,1500000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a large fancy kitchen and bathrooms.
+The zip code is located in a big city and near the hills.",,1,2,4,1
+28_17,28,875000,5,4.5,388,4180,1250000,1500000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a large fancy kitchen and bathrooms.
+The zip code is located in a big city and near the hills.",,1,3,4,1
+28_18,28,875000,5,4.5,388,4180,600000,700000,700000,800000,True,False,Total are total five bedrooms of the house and open space in front,,1,1,2,1
+28_21,28,875000,5,4.5,388,4180,600000,700000,700000,800000,True,False,Total are total five bedrooms of the house and open space in front,,1,4,4,0
+29_2,29,1650000,4,4.0,415,4464,1000000,1250000,1000000,1500000,True,False,"The house has a large surface area and from the images we can see that the property also includes a huge parking space.
+The house decoration seems to be luxurious and very fancy as well. ",,1,2,5,1
+29_4,29,1650000,4,4.0,415,4464,1000000,1250000,1000000,1500000,True,False,"The house has a large surface area and from the images we can see that the property also includes a huge parking space.
+The house decoration seems to be luxurious and very fancy as well. ",,1,5,5,2
+29_5,29,1650000,4,4.0,415,4464,700000,800000,1000000,1500000,True,False,"As per area and number of bedrooms.
+It is furnished well.",,1,5,3,0
+29_6,29,1650000,4,4.0,415,4464,1000000,1250000,1000000,1500000,True,False,"The house has a large surface area and from the images we can see that the property also includes a huge parking space.
+The house decoration seems to be luxurious and very fancy as well. ",,1,3,5,1
+29_7,29,1650000,4,4.0,415,4464,700000,800000,1000000,1500000,True,False,"As per area and number of bedrooms.
+It is furnished well.",,1,1,1,2
+29_20,29,1650000,4,4.0,415,4464,700000,800000,1000000,1500000,True,False,"As per area and number of bedrooms.
+It is furnished well.",,1,1,2,1
+29_21,29,1650000,4,4.0,415,4464,1000000,1250000,1000000,1500000,True,False,"The house has a large surface area and from the images we can see that the property also includes a huge parking space.
+The house decoration seems to be luxurious and very fancy as well. ",,1,1,3,1
+29_25,29,1650000,4,4.0,415,4464,1000000,1250000,1000000,1500000,True,False,"The house has a large surface area and from the images we can see that the property also includes a huge parking space.
+The house decoration seems to be luxurious and very fancy as well. ",,1,1,5,1
+29_27,29,1650000,4,4.0,415,4464,700000,800000,1000000,1500000,True,False,"As per area and number of bedrooms.
+It is furnished well.",,1,3,4,1
+29_28,29,1650000,4,4.0,415,4464,1000000,1250000,1000000,1500000,True,False,"The house has a large surface area and from the images we can see that the property also includes a huge parking space.
+The house decoration seems to be luxurious and very fancy as well. ",,1,1,5,1
+29_29,29,1650000,4,4.0,415,4464,700000,800000,1000000,1500000,True,False,"As per area and number of bedrooms.
+It is furnished well.",,1,2,5,1
+30_9,30,1199000,5,4.5,449,4829,1250000,1500000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,1,2,4,1
+30_13,30,1199000,5,4.5,449,4829,600000,700000,700000,800000,True,False,"Bed rooms are five.
+As per requirement, all facilities are available.",,1,2,3,1
+30_14,30,1199000,5,4.5,449,4829,600000,700000,700000,800000,True,False,"Bed rooms are five.
+As per requirement, all facilities are available.",,1,1,3,1
+30_15,30,1199000,5,4.5,449,4829,1250000,1500000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,1,3,5,1
+30_19,30,1199000,5,4.5,449,4829,1250000,1500000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,1,2,4,1
+30_20,30,1199000,5,4.5,449,4829,600000,700000,700000,800000,True,False,"Bed rooms are five.
+As per requirement, all facilities are available.",,1,3,4,1
+30_21,30,1199000,5,4.5,449,4829,600000,700000,700000,800000,True,False,"Bed rooms are five.
+As per requirement, all facilities are available.",,1,1,3,1
+30_22,30,1199000,5,4.5,449,4829,1250000,1500000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,1,1,5,1
+30_30,30,1199000,5,4.5,449,4829,600000,700000,700000,800000,True,False,"Bed rooms are five.
+As per requirement, all facilities are available.",,1,2,5,1
+30_31,30,1199000,5,4.5,449,4829,600000,700000,700000,800000,True,False,"Bed rooms are five.
+As per requirement, all facilities are available.",,1,5,2,0
+31_13,31,789000,5,3.0,234,2520,900000,1000000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a front porch 
+The house decoration seems to be luxurious as well.",,1,5,3,0
+31_14,31,789000,5,3.0,234,2520,900000,1000000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a front porch 
+The house decoration seems to be luxurious as well.",,1,1,5,1
+31_15,31,789000,5,3.0,234,2520,900000,1000000,700000,800000,True,False,"big kitchen, it has a extended garden also it counts with a seeker",,1,1,2,1
+31_24,31,789000,5,3.0,234,2520,900000,1000000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a front porch 
+The house decoration seems to be luxurious as well.",,1,1,5,1
+31_25,31,789000,5,3.0,234,2520,900000,1000000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a front porch 
+The house decoration seems to be luxurious as well.",,1,2,5,1
+31_26,31,789000,5,3.0,234,2520,900000,1000000,700000,800000,True,False,"big kitchen, it has a extended garden also it counts with a seeker",,1,2,4,1
+32_5,32,1039000,4,3.5,318,3428,1000000,1250000,500000,600000,True,False,"The house has a large surface area and from the images we can see that the property also includes drive way for car parking.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be decent as well.",,0,1,5,1
+32_6,32,1039000,4,3.5,318,3428,1000000,1250000,500000,600000,True,False,"The house has a large surface area and from the images we can see that the property also includes drive way for car parking.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be decent as well.",,0,1,4,1
+32_13,32,1039000,4,3.5,318,3428,1000000,1250000,500000,600000,True,False,"The house has a large surface area and from the images we can see that the property also includes drive way for car parking.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be decent as well.",,0,2,5,1
+32_23,32,1039000,4,3.5,318,3428,1000000,1250000,500000,600000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,0,4,2,0
+32_26,32,1039000,4,3.5,318,3428,800000,900000,500000,600000,True,False,"Big and comfortable one. A lot of space, nice backyard. ",,0,1,2,1
+32_27,32,1039000,4,3.5,318,3428,1000000,1250000,500000,600000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,0,1,5,1
+32_29,32,1039000,4,3.5,318,3428,800000,900000,500000,600000,True,False,"Big and comfortable one. A lot of space, nice backyard. ",,0,5,5,1
+32_37,32,1039000,4,3.5,318,3428,1000000,1250000,500000,600000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,0,1,4,1
+33_1,33,365000,3,2.0,167,1802,300000,400000,400000,500000,True,False,"Counts with a garden, it has a garage and it's near to the ocean",,0,4,5,1
+33_2,33,365000,3,2.0,167,1802,300000,400000,400000,500000,True,False,"Counts with a garden, it has a garage and it's near to the ocean",,0,2,4,1
+33_3,33,365000,3,2.0,167,1802,300000,400000,400000,500000,True,False,"Counts with a garden, it has a garage and it's near to the ocean",,0,1,5,1
+33_6,33,365000,3,2.0,167,1802,300000,400000,400000,500000,True,False,this house have only 3 bed and condition looks like not so good,,0,3,1,0
+34_3,34,1695000,3,3.5,267,2873,400000,500000,500000,700000,True,False,"Modern, but a little bit too simple. Not much furniture. ",,1,2,3,1
+34_7,34,1695000,3,3.5,267,2873,400000,500000,500000,700000,True,False,"Modern, but a little bit too simple. Not much furniture. ",,1,3,4,1
+34_11,34,1695000,3,3.5,267,2873,400000,500000,500000,700000,True,False,"Modern, but a little bit too simple. Not much furniture. ",,1,1,2,1
+34_14,34,1695000,3,3.5,267,2873,400000,500000,500000,700000,True,False,"Modern, but a little bit too simple. Not much furniture. ",,1,1,3,0
+35_4,35,999000,4,4.0,303,3260,600000,700000,500000,700000,True,False,"As per location of house and number of bedrooms.
+     ",,1,1,1,2
+35_7,35,999000,4,4.0,303,3260,600000,700000,500000,700000,True,False,"As per location of house and number of bedrooms.
+     ",,1,3,2,0
+35_11,35,999000,4,4.0,303,3260,800000,900000,500000,700000,True,False,"It has tremendous land space.
+It has luxurious finishes ",,1,1,3,1
+35_12,35,999000,4,4.0,303,3260,800000,900000,500000,700000,True,False,"It has tremendous land space.
+It has luxurious finishes ",,1,2,3,1
+35_13,35,999000,4,4.0,303,3260,800000,900000,500000,700000,True,False,"It has tremendous land space.
+It has luxurious finishes ",,1,2,4,1
+35_26,35,999000,4,4.0,303,3260,600000,700000,500000,700000,True,False,"As per location of house and number of bedrooms.
+     ",,1,3,4,1
+36_9,36,1294000,3,4.5,362,3893,1000000,1250000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,1,1,5,1
+36_12,36,1294000,3,4.5,362,3893,700000,800000,700000,800000,True,False,"The house is smaller than the others in the area, though still pretty good equipped. The zip code area is near the city, which makes the price higher.",,1,1,3,1
+36_13,36,1294000,3,4.5,362,3893,1000000,1250000,700000,800000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,1,4,2,0
+36_14,36,1294000,3,4.5,362,3893,700000,800000,700000,800000,True,False,"The house is smaller than the others in the area, though still pretty good equipped. The zip code area is near the city, which makes the price higher.",,1,1,4,1
+36_26,36,1294000,3,4.5,362,3893,1000000,1250000,700000,800000,True,False,"although the house is not very big , but I am attracted by its comfort",,1,2,3,1
+36_28,36,1294000,3,4.5,362,3893,700000,800000,700000,800000,True,False,"The house is smaller than the others in the area, though still pretty good equipped. The zip code area is near the city, which makes the price higher.",,1,3,4,1
+36_32,36,1294000,3,4.5,362,3893,1000000,1250000,700000,800000,True,False,"although the house is not very big , but I am attracted by its comfort",,1,1,5,1
+37_1,37,1089000,5,5.5,365,3932,1250000,1500000,500000,600000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,1,2,5,1
+37_2,37,1089000,5,5.5,365,3932,1250000,1500000,500000,600000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,1,1,5,1
+37_3,37,1089000,5,5.5,365,3932,1250000,1500000,500000,600000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,1,1,4,1
+37_8,37,1089000,5,5.5,365,3932,800000,900000,500000,600000,True,False,"A large and luxurious house , near a big city . A large number of beds",,1,1,2,1
+37_16,37,1089000,5,5.5,365,3932,800000,900000,500000,600000,True,False,this price gonna be good becouse house look like good and have 5 bed,,1,2,3,1
+37_24,37,1089000,5,5.5,365,3932,1250000,1500000,500000,600000,True,False,"The house has a large surface area and from the images we can see that the property also includes a big garden.
+The zip code is located in a big city and near a lake.
+The house decoration seems to be luxurious as well.",,1,1,4,1
+37_28,37,1089000,5,5.5,365,3932,800000,900000,500000,600000,True,False,"A large and luxurious house , near a big city . A large number of beds",,1,3,5,1
+37_30,37,1089000,5,5.5,365,3932,800000,900000,500000,600000,True,False,this price gonna be good becouse house look like good and have 5 bed,,1,1,2,2
+37_31,37,1089000,5,5.5,365,3932,800000,900000,500000,600000,True,False,this price gonna be good becouse house look like good and have 5 bed,,1,2,3,1
+38_1,38,799900,3,3.5,259,2792,700000,800000,450000,550000,True,False,"Cozy , attractive house , not far from a major city . a small number of bedrooms",,0,4,2,0
+38_6,38,799900,3,3.5,259,2792,700000,800000,450000,550000,True,False,"Cozy , attractive house , not far from a major city . a small number of bedrooms",,0,2,4,1
+39_4,39,1229000,3,4.5,393,4228,700000,800000,500000,600000,True,False,"an ordinary cozy house , with a small number of bedrooms",,1,2,5,1
+39_6,39,1229000,3,4.5,393,4228,700000,800000,500000,600000,True,False,"an ordinary cozy house , with a small number of bedrooms",,1,1,1,2
+39_13,39,1229000,3,4.5,393,4228,800000,900000,500000,600000,True,False,It has great modern design and stylish look. Also very comfortable one. ,,1,1,4,1
+39_18,39,1229000,3,4.5,393,4228,700000,800000,500000,600000,True,False,"an ordinary cozy house , with a small number of bedrooms",,1,3,5,1
+39_19,39,1229000,3,4.5,393,4228,800000,900000,500000,600000,True,False,It has great modern design and stylish look. Also very comfortable one. ,,1,2,2,1
+39_20,39,1229000,3,4.5,393,4228,800000,900000,500000,600000,True,False,It has great modern design and stylish look. Also very comfortable one. ,,1,3,4,1
+39_22,39,1229000,3,4.5,393,4228,800000,900000,500000,600000,True,False,It has great modern design and stylish look. Also very comfortable one. ,,1,1,2,1
+39_23,39,1229000,3,4.5,393,4228,800000,900000,500000,600000,True,False,It has great modern design and stylish look. Also very comfortable one. ,,1,3,2,1
+40_16,40,455000,3,3.0,199,2146,400000,500000,500000,600000,True,False,"A simple house. At the same time, square meters are enough. Everything for a comfortable stay is there. Come and live.",,0,1,4,1
+40_18,40,455000,3,3.0,199,2146,200000,300000,500000,600000,True,False,The house is not so big and not so modern. The zip code area is pretty far from the sea.,,0,2,3,1
+40_19,40,455000,3,3.0,199,2146,200000,300000,500000,600000,True,False,The house is not so big and not so modern. The zip code area is pretty far from the sea.,,0,3,4,1
+40_20,40,455000,3,3.0,199,2146,400000,500000,500000,600000,True,False,"A simple house. At the same time, square meters are enough. Everything for a comfortable stay is there. Come and live.",,0,2,4,1
+40_29,40,455000,3,3.0,199,2146,200000,300000,500000,600000,True,False,The house is not so big and not so modern. The zip code area is pretty far from the sea.,,0,2,3,2
+40_32,40,455000,3,3.0,199,2146,400000,500000,500000,600000,True,False,"A simple house. At the same time, square meters are enough. Everything for a comfortable stay is there. Come and live.",,0,1,4,1
+40_34,40,455000,3,3.0,199,2146,300000,400000,500000,600000,True,False,"Surface area is not that big.
+Rooms seems small.
+It is close to the ocean.
+",,0,2,4,1
+40_35,40,455000,3,3.0,199,2146,300000,400000,500000,600000,True,False,"Surface area is not that big.
+Rooms seems small.
+It is close to the ocean.
+",,0,3,2,0
+40_37,40,455000,3,3.0,199,2146,400000,500000,500000,600000,True,False,"A simple house. At the same time, square meters are enough. Everything for a comfortable stay is there. Come and live.",,0,1,3,1
+40_38,40,455000,3,3.0,199,2146,200000,300000,500000,600000,True,False,The house is not so big and not so modern. The zip code area is pretty far from the sea.,,0,3,4,1
+45_9,45,350000,4,2.0,179,1928,500000,600000,250000,350000,True,False,"Nice family home , very cozy . The house has a large area and from the images we can see that the property also includes a large garden.",,1,1,4,1
+45_12,45,350000,4,2.0,179,1928,300000,400000,250000,350000,True,False,Not very modern  nothing special. But still decent. ,,1,1,3,1
+45_15,45,350000,4,2.0,179,1928,500000,600000,250000,350000,True,False,"Nice family home , very cozy . The house has a large area and from the images we can see that the property also includes a large garden.",,1,1,3,1
+45_16,45,350000,4,2.0,179,1928,500000,600000,250000,350000,True,False,"Nice family home , very cozy . The house has a large area and from the images we can see that the property also includes a large garden.",,1,1,3,1
+45_18,45,350000,4,2.0,179,1928,300000,400000,250000,350000,True,False,Not very modern  nothing special. But still decent. ,,1,2,3,1
+45_19,45,350000,4,2.0,179,1928,500000,600000,250000,350000,True,False,"Nice family home , very cozy . The house has a large area and from the images we can see that the property also includes a large garden.",,1,2,3,1
+45_20,45,350000,4,2.0,179,1928,500000,600000,250000,350000,True,False,"Nice family home , very cozy . The house has a large area and from the images we can see that the property also includes a large garden.",,1,1,2,1
+46_1,46,425000,3,3.0,198,2134,400000,500000,200000,300000,True,False,looks like not so good and have only 3 bed and so far from downtown,,1,2,3,1
+46_3,46,425000,3,3.0,198,2134,400000,500000,200000,300000,True,False,looks like not so good and have only 3 bed and so far from downtown,,1,1,4,1
+46_4,46,425000,3,3.0,198,2134,400000,500000,200000,300000,True,False,looks like not so good and have only 3 bed and so far from downtown,,1,2,2,1
+46_5,46,425000,3,3.0,198,2134,400000,500000,200000,300000,True,False,looks like not so good and have only 3 bed and so far from downtown,,1,1,5,1
+47_11,47,500000,4,3.0,233,2504,400000,500000,250000,350000,True,False,this house have 4 bed and look like just good this price gonna be good,,0,2,3,1
+47_13,47,500000,4,3.0,233,2504,400000,500000,250000,350000,True,False,this house have 4 bed and look like just good this price gonna be good,,0,2,3,1
+47_14,47,500000,4,3.0,233,2504,400000,500000,250000,350000,True,False,this house have 4 bed and look like just good this price gonna be good,,0,2,3,1
+47_15,47,500000,4,3.0,233,2504,500000,600000,250000,350000,True,False,"an ordinary house in a secluded place, there is nothing special",,0,2,4,1
+47_16,47,500000,4,3.0,233,2504,400000,500000,250000,350000,True,False,this house have 4 bed and look like just good this price gonna be good,,0,1,3,1
+47_34,47,500000,4,3.0,233,2504,500000,600000,250000,350000,True,False,"an ordinary house in a secluded place, there is nothing special",,0,1,3,0
+47_36,47,500000,4,3.0,233,2504,600000,700000,250000,350000,True,False,Small house. A lot of rooms. Repair is good. All conditions for a family with children.,,0,1,3,1
+47_37,47,500000,4,3.0,233,2504,600000,700000,250000,350000,True,False,Small house. A lot of rooms. Repair is good. All conditions for a family with children.,,0,1,4,1
+47_38,47,500000,4,3.0,233,2504,600000,700000,250000,350000,True,False,Small house. A lot of rooms. Repair is good. All conditions for a family with children.,,0,4,4,2
+47_41,47,500000,4,3.0,233,2504,600000,700000,250000,350000,True,False,Small house. A lot of rooms. Repair is good. All conditions for a family with children.,,0,1,3,1
+47_44,47,500000,4,3.0,233,2504,600000,700000,250000,350000,True,False,Small house. A lot of rooms. Repair is good. All conditions for a family with children.,,0,3,4,1
+47_46,47,500000,4,3.0,233,2504,500000,600000,250000,350000,True,False,"an ordinary house in a secluded place, there is nothing special",,0,2,5,1
+48_6,48,589900,3,3.0,229,2462,900000,1000000,200000,300000,True,False,a large house with a large plot. In a quiet town. ,,1,3,3,2
+48_26,48,589900,3,3.0,229,2462,600000,700000,200000,300000,True,False,"An unremarkable house , far from a major city , but inside it is quite cozy.",,1,2,3,1
+48_28,48,589900,3,3.0,229,2462,600000,700000,200000,300000,True,False,"An unremarkable house , far from a major city , but inside it is quite cozy.",,1,3,4,1
+48_30,48,589900,3,3.0,229,2462,600000,700000,200000,300000,True,False,"An unremarkable house , far from a major city , but inside it is quite cozy.",,1,1,3,1
+48_34,48,589900,3,3.0,229,2462,800000,900000,200000,300000,True,False,"it has a big garden and 2 garage, its near to a lake",,1,1,4,1
+48_37,48,589900,3,3.0,229,2462,800000,900000,200000,300000,True,False,"it has a big garden and 2 garage, its near to a lake",,1,1,4,1
+49_5,49,419000,4,3.0,363,3904,200000,300000,250000,350000,True,False,"The house is not big. Everything is done simply, they did not invest a lot of money in repairs.",,0,1,2,1
+49_7,49,419000,4,3.0,363,3904,200000,300000,250000,350000,True,False,"The house is not big. Everything is done simply, they did not invest a lot of money in repairs.",,0,1,5,1
+49_9,49,419000,4,3.0,363,3904,200000,300000,250000,350000,True,False,"The house is not big. Everything is done simply, they did not invest a lot of money in repairs.",,0,3,4,1
+49_10,49,419000,4,3.0,363,3904,200000,300000,250000,350000,True,False,"The house is not big. Everything is done simply, they did not invest a lot of money in repairs.",,0,3,4,1
+49_11,49,419000,4,3.0,363,3904,200000,300000,250000,350000,True,False,"The house is not big. Everything is done simply, they did not invest a lot of money in repairs.",,0,1,3,1
+49_18,49,419000,4,3.0,363,3904,200000,300000,250000,350000,True,False,"The house is not big. Everything is done simply, they did not invest a lot of money in repairs.",,0,3,4,1
+50_8,50,415000,3,2.0,189,2034,500000,600000,200000,300000,True,False,"it has large compound
+it has well decorated kitchen
+it has different compartment",,1,2,3,1
+50_10,50,415000,3,2.0,189,2034,600000,700000,200000,300000,True,False,Spacious house. Large rooms. Everything is spacious. Suitable for families with children.,,1,2,3,1
+50_11,50,415000,3,2.0,189,2034,600000,700000,200000,300000,True,False,Spacious house. Large rooms. Everything is spacious. Suitable for families with children.,,1,2,4,1
+50_14,50,415000,3,2.0,189,2034,500000,600000,200000,300000,True,False,"it has large compound
+it has well decorated kitchen
+it has different compartment",,1,4,3,0
+50_15,50,415000,3,2.0,189,2034,500000,600000,200000,300000,True,False,"it has large compound
+it has well decorated kitchen
+it has different compartment",,1,2,4,1
+50_24,50,415000,3,2.0,189,2034,500000,600000,200000,300000,True,False,"it has large compound
+it has well decorated kitchen
+it has different compartment",,1,3,5,1
